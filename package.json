@@ -14,6 +14,7 @@
   "dependencies": {
     "@tailwindcss/vite": "^4.3.3",
     "astro": "^7.3.5",
+    "astro-htmx": "^1.0.6",
     "htmx.org": "^2.0.11",
     "tailwindcss": "^4.3.3"
   },
